@@ -1,4 +1,4 @@
-Functional programming · types · Emacs · ideas
+**Functional programming · types · Emacs · ideas**
 
 <!--
 **adql/adql** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
