@@ -4,9 +4,9 @@ I've been programming since a very young age (does `90 GOTO 20` ring a bell?). R
 
 #### Things I currently do
 - Projects
-  - [Spure](https://adql.github.io/spure) [[src](https://github.com/adql/spure) · PureScript+React]: Most minimal no-regrets editor (_work in progress_)
-  - [Purelife](https://adql.github.io/purelife/) [[src](https://github.com/adql/purelife) · PureScript+React]: Conway's Game of Life implementation (_work in progress_)
-- Deepen my knowledge of Haskell, hopefully start to contribute to [Pandoc](https://github.com/jgm/pandoc/) soon
+  - [Spure](https://adql.github.io/spure) [[src](https://github.com/adql/spure) · _PureScript+React_]: Most minimal no-regrets editor (_work in progress_)
+  - Moonad [[src](https://github.com/adql/Moonad) · _Haskell_]: Interpreter for the [COW](https://bigzaphod.github.io/COW/) joke language (_work in progress_)
+  - [Purelife](https://adql.github.io/purelife/) [[src](https://github.com/adql/purelife) · _PureScript+React_]: Conway's Game of Life implementation (_work in progress_)
   
 ##### I should pay more attention to
 
