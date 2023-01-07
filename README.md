@@ -2,7 +2,7 @@
 
 I've been programming since a very young age (does `90 GOTO 20` ring a bell?). Recently I've begun to take it more “seriously”, by which I mean “with more fun”.
 
-I currently work on \[[FakeWorld](https://github.com/adql/fakeworld/)\], a full-stack [RealWorld](https://github.com/gothinkster/realworld) implementation with a twist: the frontend is actually a TUI build with [Brick](https://hackage.haskell.org/package/brick)! It's a fun learning project to enhance my Haskell skills in a somewhat unconventional way while diving into libraries such as [Servant](https://www.servant.dev/).
+I currently work on [FakeWorld](https://github.com/adql/fakeworld/), a full-stack [RealWorld](https://github.com/gothinkster/realworld) implementation with a twist: the frontend is actually a TUI build with [Brick](https://hackage.haskell.org/package/brick)! It's a fun learning project to enhance my Haskell skills in a somewhat unconventional way while diving into libraries such as [Servant](https://www.servant.dev/).
 
 I also have some front-end and other more-or-less silly project 👇. See [my website](https://amirdekel.com/coding.html) for a summary.
 
